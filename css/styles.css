@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.fa-solid {
+    color: black;
+    font-size: 1rem;
+}
+
+.list-item {
+    margin: 0 1rem;
+}
+
+.logo {
+    padding-left: 5.5rem;
+}
+
+.top-btn {
+    margin-right: 5.5rem;
+}
+
+.details {
+    padding: 3rem 15rem;
+}
+
+.small-box:hover {
+    box-shadow: 0rem 1rem 4rem 0rem rgb(200, 200, 200);
+}
